@@ -36,8 +36,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `筋肉ﾁｮｯﾄﾃﾞｷﾙ`,
+        short_name: `筋肉ﾁｮｯﾄﾃﾞｷﾙ`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
